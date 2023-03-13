@@ -1,0 +1,16 @@
+POST http://localhost:4001/app/signup 
+Content-Type: application/json 
+
+{
+    "username":"pothanna", 
+    "password":"123456"
+} 
+
+### 
+POST http://localhost:4001/app/login  
+Content-Type: application/json 
+
+{
+    "username":"pothanna", 
+    "password":"12345"
+} 

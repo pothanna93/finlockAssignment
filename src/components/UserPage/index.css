@@ -1,0 +1,17 @@
+.user-container{
+    background-image:linear-gradient(#e4dcdc,#add1a5,#c7d5da);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+} 
+
+.user-container1{
+    
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
